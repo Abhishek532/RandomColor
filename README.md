@@ -1,5 +1,5 @@
 # RandomColor
-A simple random color generator using HTML/CSS/JS for the sole purpose of practicing my JS skills.
+A  random color generator using HTML/CSS/JS for practicing JS.
 
 # Screenshots
 ![ss1](https://user-images.githubusercontent.com/42097564/122790590-16115100-d2d6-11eb-9c4a-003d77e9fc1a.png)
